@@ -21,10 +21,12 @@ O objetivo é:
 
 ## Estrutura do Projeto
 
-/projeto_cobertura_geo/
+```text
+/geo_coverage_analysis/
 │-- /notebooks/ # Notebooks de análise exploratória
 │-- /output/ # Resultados
 │-- requirements.txt # Dependências do projeto
+```
 
 ---
 
